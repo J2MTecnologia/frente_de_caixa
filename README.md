@@ -29,7 +29,7 @@ Siga os seguintes passos:
 
 ### [License](LICENÇA)
 
-Copyright (c) 2009-2014 [J2M Tecnologia & Comunicação Estratégica](http://www.j2mtecnologia.com.br/) 
+Copyright (c) 2012-2014 [J2M Tecnologia & Comunicação Estratégica](http://www.j2mtecnologia.com.br/) 
 
 [issues]: https://github.com/J2MTecnologia/frente_de_caixa/issues "GitHub Issues for Frente de Caixa"
 
