@@ -11,6 +11,12 @@ A aplicação será desenvolvida para manutenção de vendas (PDV) e funcionará
 > Plataforma de desenvolvimento  **Java J2EE**. [Java Swing](http://pt.wikipedia.org/wiki/Swing_(Java)).
 
 
+### Artefatos
+
+Antes de começar o desenvolvimento, sugerimos a leitura:
+* [Documento de visão](https://docs.google.com/document/d/1Ph77KGD3g0eQSMVNYMlj9868nrtGaF9O2SsJ9rhrWhA/edit?usp=sharing)
+* [Documento de arquitetura](https://docs.google.com/document/d/1eDoc18SP2eBbjvYEWtPLYd49osxeD9O0agtlRJKX-bk/edit?usp=sharing)
+
 ### Como participar do desenvolvimento
 
 Siga os seguintes passos:
