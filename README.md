@@ -26,7 +26,7 @@ Siga os seguintes passos:
 * O mesmo será feito em conta corrente (informado em sua atualização de cadastro no grupo de colaboradores) em no máximo 5 dias úteis!
 * Para saber os valores das demandas, consulte a tabela de valores por ponto.
 
-### Tabela de Pontos --vs. Valores
+### Pontos/Valores
 
 Pontos  | Valor (R$)
 ------- | -------------
