@@ -50,11 +50,15 @@ Sabemos que o desenvolvimento de recursos para um sistema exige um pagamento mui
 
 Desenvolvimento [Leonn Ferreira](https://www.facebook.com/leonn.ferreira) | leonn@j2mtecnologia.com.br
 
-Frontend / Requisitos [Sérgio Silva](https://www.facebook.com/sergio.bezerradasilva) | sergio@j2mtecnologia.com.br
-
-Infraestrutura [Rubens Mendonça](https://www.facebook.com/rubens.mendonca2012) | rubens@j2mtecnologia.com.br
+Frontend / Requisitos / Banco de Dados [Sérgio Silva](https://www.facebook.com/sergio.bezerradasilva) | sergio@j2mtecnologia.com.br
 
 Frontend / Requisitos [Jonatas Mendonça](https://www.facebook.com/mmJonatas) | jonatas@j2mtecnologia.com.br
+
+Desenvolvimento / Banco de Dados [Lucas Carvalho](https://www.facebook.com/lucas.fcc) | lucasfelipe2007@hotmail.com
+
+Desenvolvimento [Tiago Pereira](https://www.facebook.com/pereira.gomes.tiago)
+
+
 
 
 ### [License](LICENÇA)
