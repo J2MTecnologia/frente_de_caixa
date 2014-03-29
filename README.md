@@ -7,17 +7,20 @@ A aplicação será desenvolvida para manutenção de vendas (PDV) e funcionará
 
 
 ### Tecnologias
+----------------
 
 > Plataforma de desenvolvimento  **Java J2EE**. [Java Swing](http://pt.wikipedia.org/wiki/Swing_(Java)).
 
 
 ### Artefatos
+-------------
 
 Antes de começar o desenvolvimento, sugerimos a leitura dos seguintes artefatos:
 * [Documento de visão](https://github.com/J2MTecnologia/frente_de_caixa/wiki/Documento-de-Vis%C3%A3o)
 * [Documento de arquitetura](https://github.com/J2MTecnologia/frente_de_caixa/wiki/Documento-de-Arquitetura)
 
 ### Como participar do desenvolvimento
+--------------------------------------
 
 Siga os seguintes passos:
 
@@ -28,12 +31,14 @@ Siga os seguintes passos:
 * Marque a Issue que deseja solucionar com seu usuário e solucione todas as dúvidas que desejar sobre a demanda
 
 ### Pagamento (R$)
+------------------
 
 * O pagamento da funcionalidade será mediante a apresentação da funcionalidade, realizando o solicitado e devidamente testado!
 * O mesmo será feito em conta corrente (informado em sua atualização de cadastro no grupo de colaboradores) em no máximo 5 dias úteis!
 * Para saber os valores das demandas, consulte a tabela de valores por ponto.
 
 ### Pontos/Valores
+------------------
 
 Pontos  | Valor (R$)
 ------- | -------------
@@ -49,10 +54,12 @@ Pontos  | Valor (R$)
 
 
 ### Importante
+---------------
 
 Sabemos que o desenvolvimento de recursos para um sistema exige um pagamento muito melhor e mais generoso aos desenvolvedores que aceitarem participar da construção do recurso, porém, como a J2M Tecnologia ainda é uma empresa em desenvolvimento, não temos recursos para o pagamento desejável ao desenvolvimento destas demandas! Por tanto, contamos com a sua colaboração para o crescimento da empresa com uma parte de seu esforço!
 
 ### Contatos
+------------
 
 Desenvolvimento [Leonn Ferreira](https://www.facebook.com/leonn.ferreira) | leonn@j2mtecnologia.com.br
 
@@ -68,6 +75,7 @@ Desenvolvimento [Tiago Pereira](https://www.facebook.com/pereira.gomes.tiago) | 
 
 
 ### [License](LICENÇA)
+----------------------
 
 Copyright (c) 2012-2014 [J2M Tecnologia & Comunicação Estratégica](http://www.j2mtecnologia.com.br/) 
 
