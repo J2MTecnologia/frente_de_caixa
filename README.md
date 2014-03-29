@@ -16,8 +16,9 @@ A aplicação será desenvolvida para manutenção de vendas (PDV) e funcionará
 Siga os seguintes passos:
 
 * Entre em contato com um dos representantes da J2M Tecnologia via [Facebook](https://www.facebook.com/groups/j2mcolaboradores/)
-* Solicite participação em nosso diretório do [GitHub](https://github.com/J2MTecnologia)
 * Verifique os conhecimentos necessários a demanda que deseja solucionar
+* Solicite participação em nosso diretório do [GitHub](https://github.com/J2MTecnologia)
+* Efetue a clonagem do projeto *git clone https://github.com/J2MTecnologia/frente_de_caixa.git
 * Marque a Issue que deseja solucionar com seu usuário e solucione todas as dúvidas que desejar sobre a demanda
 
 ### Pagamento (R$)
