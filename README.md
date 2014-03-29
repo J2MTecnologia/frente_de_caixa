@@ -11,7 +11,7 @@ A aplicação será desenvolvida para manutenção de vendas (PDV) e funcionará
 > Plataforma de desenvolvimento  **Java J2EE**. [Java Swing](http://pt.wikipedia.org/wiki/Swing_(Java)).
 
 
-## Como participar do desenvolvimento
+### Como participar do desenvolvimento
 
 Siga os seguintes passos:
 
@@ -20,14 +20,14 @@ Siga os seguintes passos:
 * Verifique os conhecimentos necessários a demanda que deseja solucionar
 * Marque a Issue que deseja solucionar com seu usuário e solucione todas as dúvidas que desejar sobre a demanda
 
-## Pagamento (R$)
+### Pagamento (R$)
 
 * O pagamento da funcionalidade será mediante a apresentação da funcionalidade, realizando o solicitado e devidamente testado!
 * O mesmo será feito em conta corrente (informado em sua atualização de cadastro no grupo de colaboradores) em no máximo 5 dias úteis!
 
 
 
-## [License](LICENÇA)
+### [License](LICENÇA)
 
 Copyright (c) 2009-2014 [J2M Tecnologia & Comunicação Estratégica](http://www.j2mtecnologia.com.br/) 
 
