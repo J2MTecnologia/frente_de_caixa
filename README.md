@@ -14,7 +14,7 @@ A aplicação será desenvolvida para manutenção de vendas (PDV) e funcionará
 ### Artefatos
 
 Antes de começar o desenvolvimento, sugerimos a leitura dos seguintes artefatos:
-* [Documento de visão](https://docs.google.com/document/d/1Ph77KGD3g0eQSMVNYMlj9868nrtGaF9O2SsJ9rhrWhA/edit?usp=sharing)
+* [Documento de visão](https://github.com/J2MTecnologia/frente_de_caixa/wiki/Documento-de-Vis%C3%A3o)
 * [Documento de arquitetura](https://github.com/J2MTecnologia/frente_de_caixa/wiki/Documento-de-Arquitetura)
 
 ### Como participar do desenvolvimento
