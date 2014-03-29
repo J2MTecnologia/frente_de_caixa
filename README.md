@@ -56,7 +56,7 @@ Frontend / Requisitos [Jonatas Mendonça](https://www.facebook.com/mmJonatas) | 
 
 Desenvolvimento / Banco de Dados [Lucas Carvalho](https://www.facebook.com/lucas.fcc) | lucasfelipe2007@hotmail.com
 
-Desenvolvimento [Tiago Pereira](https://www.facebook.com/pereira.gomes.tiago)
+Desenvolvimento [Tiago Pereira](https://www.facebook.com/pereira.gomes.tiago) | tiagogomespereira@gmail.com
 
 
 
