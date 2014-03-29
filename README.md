@@ -24,7 +24,30 @@ Siga os seguintes passos:
 
 * O pagamento da funcionalidade será mediante a apresentação da funcionalidade, realizando o solicitado e devidamente testado!
 * O mesmo será feito em conta corrente (informado em sua atualização de cadastro no grupo de colaboradores) em no máximo 5 dias úteis!
+* Para saber os valores das demandas, consulte a tabela de valores por ponto.
 
+### Tabela de Pontos vs. Valores
+
+Pontos  | Valor (R$)
+------- | -------------
+1/2     | R$ 00
+1       | R$ 00
+2       | R$ 00
+3       | R$ 00
+5       | R$ 00
+8       | R$ 00
+13      | R$ 00
+20      | R$ 00
+40      | R$ 00
+
+
+### Importante
+
+Sabemos que o desenvolvimento de recursos para um sistema exige um pagamento muito melhor e mais generoso aos desenvolvedores que aceitarem participar da construção do recurso, porém, como a J2M Tecnologia ainda é uma empresa em desenvolvimento, não temos recursos para o pagamento desejável ao desenvolvimento destas demandas! Por tanto, contamos com a sua colaboração para o crescimento da empresa com uma parte de seu esforço!
+
+### Contatos
+
+Desenvolvimento
 
 
 ### [License](LICENÇA)
