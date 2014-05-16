@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0+" codebase="http://s3-sa-east-1.amazonaws.com/yaw-site-sp/app/">
+
+	<information>
+		<title>Aplicação Demo das tecnologias Swing e Spring JDBC</title>
+		<vendor>YaW Tecnologia</vendor>
+		<description>Demo Swing e Spring JDBC</description>
+		<description kind="short">SSJC</description>
+		<icon href="logo_yaw.png"/>
+		<icon kind="splash" href="logo_yaw.png"/>
+	</information>
+	
+	<security>
+		<all-permissions />
+	</security>
+	
+	<resources>
+		<j2se version="1.6.0+" initial-heap-size="32m" max-heap-size="256m"/>
+		
+		<jar href="lib/hsqldb-2.2.8-s.jar" download="eager" />
+		<jar href="lib/log4j-1.2.16-s.jar" download="eager" />
+		<jar href="lib/commons-dbcp-1.4.jar" download="eager" />
+		<jar href="lib/commons-pool-1.5.4.jar" download="eager" />
+		<jar href="lib/spring-beans-3.1.2.RELEASE.jar" download="eager" />
+		<jar href="lib/spring-core-3.1.2.RELEASE.jar" download="eager" />
+		<jar href="lib/spring-asm-3.1.2.RELEASE.jar" download="eager" />
+		<jar href="lib/commons-logging-1.1.1.jar" download="eager" />
+		<jar href="lib/spring-aop-3.1.2.RELEASE.jar" download="eager" />
+		<jar href="lib/aopalliance-1.0.jar" download="eager" />
+		<jar href="lib/spring-context-3.1.2.RELEASE.jar" download="eager" />
+		<jar href="lib/spring-expression-3.1.2.RELEASE.jar" download="eager" />
+		<jar href="lib/spring-tx-3.1.2.RELEASE.jar" download="eager" />
+		<jar href="lib/spring-jdbc-3.1.2.RELEASE.jar" download="eager" />
+		<jar href="lib/hibernate-validator-4.3.1.Final.jar" download="eager" />
+		<jar href="lib/validation-api-1.0.0.GA.jar" download="eager" />
+
+		<jar href="lib/swing-springjdbc-crud.jar" download="eager" />
+	</resources>
+	<application-desc main-class="br.com.yaw.ssjc.app.Main" />
+</jnlp>

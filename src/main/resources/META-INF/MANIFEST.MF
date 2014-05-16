@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Build-Jdk: 1.6.0_30
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: br.com.yaw.ssjc
+Implementation-Build: 6e946216439422512f5b44f1f1125d8037e5a1ba
+Built-By: YaW Tecnologia
+Implementation-Title: Demo Swing e SpringJDBC
+Implementation-Site: http://www.yaw.com.br
+
